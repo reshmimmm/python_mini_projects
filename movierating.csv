@@ -1,0 +1,11 @@
+Movie,Genre,Critic Rating,Audience Rating,Total Rating
+The Shawshank Redemption,Drama,9.3,9.7,9.5         
+The Godfather,Crime,9.2,9.4,9.3         
+The Dark Knight,Action,9.0,9.1,9.05        
+Pulp Fiction,Crime,8.9,8.8,8.85        
+The Lord of the Rings: The Return of the King,Drama,8.9,9.0,8.95        
+Forrest Gump,Romance, 8.5,9.1,8.8         
+Inception,Sci-Fi,8.8,8.7,8.75        
+Fight Club,Thriller,8.4,8.9,8.65        
+Interstellar,Sci-Fi,8.3,8.8,8.55        
+Parasite,Drama,9.0,8.6,8.8         
